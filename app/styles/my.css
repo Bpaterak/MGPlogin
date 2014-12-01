@@ -1,0 +1,214 @@
+
+
+body {
+	color:#606060;
+}
+a:hover {
+	text-decoration: none;
+}
+
+.marketing {
+	text-align: center;
+}
+.topicon {
+
+	width:30%;
+	height: auto;
+	margin-bottom: 15px;
+}
+.space {
+	width:10.333333%;
+}
+
+.col-lg-3 {
+	width:31%;
+}
+.box1 {
+	margin-right: 23px;
+	background-color:white;
+	border:1px solid #643f98;
+	border-radius: 5px;
+}
+
+
+.box2 {
+	margin-right: 23px;
+	background-color:white;
+	border:1px solid #a3cd39;
+	border-radius: 5px;
+}
+
+
+.box3 {
+	background-color:white;
+	border:1px solid #3a7fc2;
+	border-radius: 5px;
+}
+
+
+.settings {
+	color:#606060;
+	list-style: none;
+	padding-left: 0px;
+}
+
+.settings li {
+	display:block;
+	text-align: left;
+	padding-left: 0px;
+	padding-bottom: 15px;
+}
+
+.settings a {
+	color:#606060;
+}
+
+.climark {
+	margin-left: -10px;
+}
+
+.montegame {
+	margin-left:-2px;
+}
+.tools {
+	margin-left: 10px;
+
+}
+.admins {
+	margin-left: 26px;
+}
+.info {
+	margin-left:33px;
+}
+
+
+
+/* IconSize */
+
+.setsize {
+	font-size: 1.5em;
+	/*margin-right: 1em;*/
+}
+
+.btn-tools {
+	opacity: 0.8;
+	background-color: #643f98;
+	border-color:#9453a0;
+}
+
+.btn-tools:hover {
+	opacity:1;
+	background-color: #643f98;
+	border-color:#9453a0;
+}
+
+
+/*BOX-FIX*/
+.botset {
+	margin-left: 0px;
+	margin-right: 0px;		
+}
+/*.botset .col-lg-4 {
+	width: 30.333333%;
+	margin-right: 10px;
+	
+}*/
+
+/*title-space-fix*/
+
+
+.spacefix {
+	margin-bottom: 20px;
+}
+
+.jumbotron .btn {
+	padding: 6px 24px;
+
+}
+
+.btn-success {
+	background-color: #a3cd39;
+	border:none;
+	opacity:0.9;
+	
+}
+
+.btn-success:hover {
+	background-color: #a3cd39;
+	border:none;
+	opacity:1;
+	font-size: 21px;
+
+}
+
+.jumbotron {
+	background-image: url(../images/home_bg.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-color: #fafafa;
+}
+
+.jumbotron p {
+	
+	font-size: 25px;
+	color:white;
+}
+
+
+/*ICONS*/
+
+.tools a:hover {
+	color:#643f98;
+}
+
+.admins a:hover {
+	color:#a3cd39;
+}
+
+.info a:hover {
+	color:#3a7fc2;
+}
+
+.rightbar {
+    font-size: 12px;
+}
+
+.rightbar a {
+  color:#858585;
+}
+
+.leftbar {
+
+    margin-right: -10px;
+    font-size: 12px;
+}
+
+.leftbar a {
+  color:#858585;
+}
+
+.nav > li > a {
+	padding:0px 11px 0px 11px;
+}
+.nav-pills > li > a:hover, .nav-pills > li > a:focus {
+	text-decoration: underline;
+	background-color: transparent;
+}
+
+#test {
+	width: 702px;
+	height: 50px;
+}
+#test .bgtest {
+	background: url(../images/menu_bg.png) repeat-x top left;
+}
+#test .bgtest {
+margin-bottom: 0px;
+-webkit-box-shadow: 0 2px 7px rgba(0, 0, 0, 0.1);
+-moz-box-shadow: 0 2px 7px rgba(0, 0, 0, 0.1);
+box-shadow: 0 2px 7px rgba(0, 0, 0, 0.1);
+}
+
+.secondtest {
+	height: 44px;
+}
