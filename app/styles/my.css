@@ -174,7 +174,7 @@ a:hover {
 }
 
 .rightbar {
-	padding-top: 13px;
+	padding-top: 8px;
     font-size: 12px;
 }
 
@@ -183,7 +183,7 @@ a:hover {
 }
 
 .leftbar {
-	padding-top: 13px;
+	padding-top: 8px;
 	font-size: 12px;
 }
 
@@ -216,3 +216,5 @@ box-shadow: 0 2px 7px rgba(0, 0, 0, 0.1);
 .secondtest {
 	height: 44px;
 }
+
+
