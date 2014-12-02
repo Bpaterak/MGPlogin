@@ -72,7 +72,7 @@ a:hover {
 }
 
 .montegame {
-	margin-left:-2px;
+	margin-left:-4px;
 }
 .tools {
 	margin-left: 10px;
@@ -92,6 +92,9 @@ a:hover {
 .setsize {
 	font-size: 1.5em;
 	/*margin-right: 1em;*/
+}
+.game {
+	font-size: 1.5em;
 }
 
 .btn-tools {
