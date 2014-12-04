@@ -129,7 +129,7 @@ a:hover {
 }
 
 .jumbotron .btn {
-	padding: 6px 24px;
+	padding: 9px 27px;
 
 }
 
@@ -141,7 +141,7 @@ a:hover {
 }
 
 .btn-success:hover {
-	background-color: #a3cd39;
+	background-color: #A3CD39;
 	border:none;
 	opacity:1;
 	font-size: 21px;
