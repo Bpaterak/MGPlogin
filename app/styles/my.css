@@ -157,10 +157,13 @@ a:hover {
 
 .jumbotron p {
 	
-	font-size: 25px;
+	font-size: 29px;
 	color:white;
+	margin-bottom: 14px;
 }
-
+.lead {
+	margin-bottom: 22px;
+}
 
 /*ICONS*/
 
